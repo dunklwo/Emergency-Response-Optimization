@@ -43,7 +43,7 @@ CONCLUSION
  ● Support for Additional Resource Types: The system could be extended to include
  other types of emergency resources such as helicopters or drones, further
  improving emergency response capabilities.
-14
+
  REFERENCES
  1. "Priority Queue and Graphs (C++ Standard Library)." GeeksforGeeks.
  2. "OSRMAPI Documentation." GitHub- OSRM Backend. https://github.com/Project-OSRM/osrm-backend.
